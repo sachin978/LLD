@@ -1,1 +1,1 @@
-# Project 1 - Interview Prep
+# Project 1
