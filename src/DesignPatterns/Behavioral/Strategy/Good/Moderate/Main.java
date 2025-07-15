@@ -1,6 +1,6 @@
 package DesignPatterns.Behavioral.Strategy.Good.Moderate;
 /*
-    we have created a generic way to pay we dont have to write it again and again for payment
+    Refer notes
 */
 public class Main {
     public static void main(String[] args) {

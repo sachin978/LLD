@@ -1,4 +1,4 @@
-package DesignProblems.ParkingLot.Vehicle;
+package DesignProblems.ParkingLot.Big.Vehicle;
 
 public abstract class Vehicle {
     private String licensePlate;

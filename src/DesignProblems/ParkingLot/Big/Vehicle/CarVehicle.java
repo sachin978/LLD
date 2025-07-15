@@ -1,4 +1,4 @@
-package DesignProblems.ParkingLot.Vehicle;
+package DesignProblems.ParkingLot.Big.Vehicle;
 /*
 Agar abstract class me arg constructor hai then humko concrete class me usko call karna padega
  */

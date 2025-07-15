@@ -1,4 +1,4 @@
-package DesignProblems.ParkingLot.Vehicle;
+package DesignProblems.ParkingLot.Big.Vehicle;
 
 public class BikeVehicle extends Vehicle {
     private static final double RATE = 10.0;

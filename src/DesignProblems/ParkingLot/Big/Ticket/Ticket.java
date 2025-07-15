@@ -1,7 +1,7 @@
-package DesignProblems.ParkingLot.Ticket;
+package DesignProblems.ParkingLot.Big.Ticket;
 
-import DesignProblems.ParkingLot.Vehicle.ParkingSpot;
-import DesignProblems.ParkingLot.Vehicle.Vehicle;
+import DesignProblems.ParkingLot.Big.Vehicle.ParkingSpot;
+import DesignProblems.ParkingLot.Big.Vehicle.Vehicle;
 
 import java.time.LocalDateTime;
 
