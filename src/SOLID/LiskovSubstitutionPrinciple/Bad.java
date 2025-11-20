@@ -1,6 +1,11 @@
 package SOLID.LiskovSubstitutionPrinciple;
 
 /*
+
+Child class should behave like parent!
+Liskov Substitution Principle means derived classes should be
+completely substitutable for their base classes without changing the correctness of the program
+
 Interface me 3 functions and birds implementing it but penguins if extends bird class
  they dont need fly function so they have to write extra function to throw  exception which is a bad practice
 

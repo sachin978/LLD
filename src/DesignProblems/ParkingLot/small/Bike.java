@@ -2,7 +2,8 @@ package DesignProblems.ParkingLot.small;
 
 public class Bike implements Vehicle {
     private String licensePlate;
-    Bike(String licensePlate){
+
+    Bike(String licensePlate) {
         this.licensePlate = licensePlate;
     }
 
@@ -10,8 +11,8 @@ public class Bike implements Vehicle {
     public String getLicensePlate() {
         return this.licensePlate;
     }
-    public void setLicensePlate(String licensePlate){
+
+    public void setLicensePlate(String licensePlate) {
         this.licensePlate = licensePlate;
     }
-
 }
